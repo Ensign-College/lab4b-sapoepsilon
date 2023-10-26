@@ -1,0 +1,64 @@
+{
+  "tests": [
+    {
+      "name": "Candy Test",
+      "setup": "wget https://raw.githubusercontent.com/Ensign-College/CSS115_Tests/main/CS115_lab4a_candy_test.py",
+      "run": "python CS115_lab4a_candy_test.py",
+      "input": "",
+      "output": "OK",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 15
+    },
+    {
+      "name": "Cookie Test",
+      "setup": "wget https://raw.githubusercontent.com/Ensign-College/CSS115_Tests/main/CS115_lab4a_cookie_test.py",
+      "run": "python CS115_lab4a_cookie_test.py",
+      "input": "",
+      "output": "OK",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 15
+    },
+    {
+      "name": "DessertItem test",
+      "setup": "wget https://raw.githubusercontent.com/Ensign-College/CSS115_Tests/main/CS115_lab4a_dessertitem_test.py",
+      "run": "python CS115_lab4a_dessertitem_test.py",
+      "input": "",
+      "output": "OK",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 15
+    },
+    {
+      "name": "Icecream test",
+      "setup": "wget https://raw.githubusercontent.com/Ensign-College/CSS115_Tests/main/CS115_lab4a_icecream_test.py",
+      "run": "python CS115_lab4a_icecream_test.py",
+      "input": "",
+      "output": "OK",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 15
+    },
+    {
+      "name": "Sundae test",
+      "setup": "wget https://raw.githubusercontent.com/Ensign-College/CSS115_Tests/main/CS115_lab4a_sundae_test.py",
+      "run": "python CS115_lab4a_sundae_test.py",
+      "input": "",
+      "output": "OK",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 15
+    },
+    {
+      "name": "Compile",
+      "setup": "wget https://raw.githubusercontent.com/Ensign-College/CSS115_Tests/main/CS115_lab4a_check_output.py",
+      "run": "python CS115_lab4a_check_output.py",
+      "input": "",
+      "output": "Ok",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 20
+    }
+  ]
+}
